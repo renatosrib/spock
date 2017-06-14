@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="renatosrib.CompraDeProdutosSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-29T03:21:27" hostname="phenom-ii" time="0.176">
+  <properties/>
+  <testcase name="Simula compra de produto cuja quantidade é inteira" classname="renatosrib.CompraDeProdutosSpec" time="0.172"/>
+  <testcase name="Simula compra de produto cuja quantidade é decimal" classname="renatosrib.CompraDeProdutosSpec" time="0.001"/>
+  <testcase name="Simula compra de dois produtos em uma mesma compra" classname="renatosrib.CompraDeProdutosSpec" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
